@@ -5,9 +5,9 @@ export default function Landing() {
     <div>
       <Hero />
       <section className="container-centered mt-8 grid md:grid-cols-3 gap-6">
-        <div className="p-6 bg-white rounded-lg shadow">Feature 1</div>
-        <div className="p-6 bg-white rounded-lg shadow">Feature 2</div>
-        <div className="p-6 bg-white rounded-lg shadow">Feature 3</div>
+        <div className="p-6 bg-white rounded-lg shadow">Responsive & Accessible Design</div>
+        <div className="p-6 bg-white rounded-lg shadow">Inline Validation & Error Feedback</div>
+        <div className="p-6 bg-white rounded-lg shadow">Manage Tickets Anywhere</div>
       </section>
     </div>
   );
